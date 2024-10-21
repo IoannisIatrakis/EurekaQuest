@@ -1,9 +1,5 @@
 Περιγραφή Δεδομένων και Αρχικός Σχεδιασμός
 
-ΟΜΑΔΑ:
-ΙΑΤΡΑΚΗΣ ΙΩΑΝΝΗΣ 5116
-ΓΚΟΥΔΙΝΑΚΗΣ ΒΑΣΙΛΕΙΟΣ 5130
-
 Το dataset είναι εμπνευσμένο από το dataset "NIPS Papers" του Ben Hamner και περιλαμβάνει 9680 επιστημονικά άρθρα τα οποία καλύπτουν την χρονική περίοδο 1987-2019. 
 
 https://www.kaggle.com/datasets/rowhitswami/nips-papers-1987-2019-updated/data?select=papers.csv
